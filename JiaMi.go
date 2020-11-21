@@ -1,4 +1,4 @@
-package main
+package gomodtest
 
 import (
 	"crypto/md5"
